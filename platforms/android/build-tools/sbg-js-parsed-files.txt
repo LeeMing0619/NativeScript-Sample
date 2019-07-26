@@ -1,0 +1,4 @@
+D:\Project of Client\Native Script\github\platforms\android\app\src\main\assets\app\bundle.js
+D:\Project of Client\Native Script\github\platforms\android\app\src\main\assets\app\runtime.js
+D:\Project of Client\Native Script\github\platforms\android\app\src\main\assets\app\tns-java-classes.js
+D:\Project of Client\Native Script\github\platforms\android\app\src\main\assets\app\vendor.js
